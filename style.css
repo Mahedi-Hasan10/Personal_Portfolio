@@ -1,0 +1,125 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+section {
+  height: 100vh;
+  padding: 100px 0;
+}
+.top_banner {
+  background-image: url("images/header-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.half_width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+#top_banner_half {
+  padding-top: 50px !important;
+}
+
+h3 {
+  font-size: 35px;
+  padding: 15px;
+}
+h2 span {
+  font-size: 50px;
+  padding: 15px;
+  color: #d74359;
+}
+p {
+  font-size: 20px;
+  padding: 15px;
+}
+.half_width img {
+  height: 400px;
+  max-width: auto;
+}
+.half_width a {
+  padding: 7px 15px;
+  color: #fff;
+  background: #d74359;
+  font-weight: 700;
+  font-size: 10pxs;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+.biography {
+  background-image: url("images/biography-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.latest_work {
+  background-image: url("images/latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.half_width_three {
+  width: 28%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half_width_three img {
+  height: auto;
+  width: 100%;
+}
+.latest_work h2 {
+  padding: 25px;
+  font-size: 30px;
+}
+
+.full_width {
+  width: 100%;
+  text-align: center;
+}
+.full_width h2 {
+  font-size: 50px;
+  padding: 20px;
+}
+.full_width h5 {
+  padding-top: 10px;
+}
+.full_width h4 {
+  width: 30%;
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+.clint {
+  background-image: url("images/header-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.msgBox {
+  padding: 20px 50px;
+  box-sizing: border-box;
+  background-color: #fe287c;
+  max-width: 50%;
+  display: block;
+  margin: auto;
+  border-radius: 15px;
+  color: #fff;
+  margin-top: 10px;
+}
+
+footer p {
+  padding: 15px 0;
+  text-align: center;
+}
